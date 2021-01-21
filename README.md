@@ -29,7 +29,7 @@ Here is my collecting of technical writing and documentation I have made!
 
 <a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png" alt="Writing Example" width="200"/></a>
 
-### How To Clone and Edit Repositories
+### Clone and Edit a Portfolio Website
 
 <a href="https://github.com/caly-pso/technical_writing/blob/main/markdown/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/portfolio.png" alt="Writing Example" width="200"/></a>
 
