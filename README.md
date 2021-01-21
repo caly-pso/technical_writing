@@ -26,7 +26,7 @@ Here is my collecting of technical writing and documentation I have made!
 
 ## Pedicatric Codes Preview
 
-[![Writing Image](https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png  =200x)](https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf)
+<a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png" alt="Writing Example" width="200"/></a>
 
 ## How To Clone and Edit Repositories
 
