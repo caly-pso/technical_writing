@@ -6,8 +6,8 @@
 
 <!-- buttons -->
 
-[![Skills](https://img.shields.io/badge/-XML--5-green?style=for-the-badge)](#Skills)
-[![Skills](https://img.shields.io/badge/-DITA--3-yellowgreen?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-XML-green?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-DITA-yellowgreen?style=for-the-badge)](#Skills)
 [![Skills](https://img.shields.io/badge/-Markdown-yellow?style=for-the-badge)](#Skills)
 
 <!--Colors: brightgreengreenyellowgreenyelloworangeredbluelightgrey
