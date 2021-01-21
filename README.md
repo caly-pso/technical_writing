@@ -25,13 +25,13 @@ Here is my collecting of technical writing and documentation I have made!
 <!-- project preview -->
 
 ## Pedicatric Codes Preview
-![Writing Image](https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png  =400x)(https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf)
+[![Writing Image](https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png  =200x)](https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf)
 
 ## How To Clone and Edit Repositories
-![Writing Image](https://github.com/caly-pso/technical_writing/blob/main/assets/img/portfolio.png  =400x)(https://github.com/caly-pso/technical_writing/blob/main/markdown/clone_and_edit.md)
+[![Writing Image](https://github.com/caly-pso/technical_writing/blob/main/assets/img/portfolio.png  =200x)](https://github.com/caly-pso/technical_writing/blob/main/markdown/clone_and_edit.md)
 
 ## Covid-19 Streamlit App Quick Start Guide
-![Writing Image](https://github.com/caly-pso/technical_writing/blob/main/assets/img/covid_qs.png  =400x)(https://github.com/caly-pso/technical_writing/blob/main/xml/covid19_app_quickstart.pdf)
+[![Writing Image](https://github.com/caly-pso/technical_writing/blob/main/assets/img/covid_qs.png  =200x)](https://github.com/caly-pso/technical_writing/blob/main/xml/covid19_app_quickstart.pdf)
 
 <br>
 
