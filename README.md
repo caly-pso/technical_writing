@@ -29,8 +29,8 @@ Here is my collecting of technical writing and documentation I have made!
 
 ### Create Your Own Portfolio Website
 
-<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/1.gif" alt="Writing Example" width="200"/></a>
-<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/3.gif" alt="Writing Example" width="200"/></a>
+<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/1.gif" alt="Writing Example" width="300"/></a>
+<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/3.gif" alt="Writing Example" width="300"/></a>
 
 ### Clone and Edit a GitHub Repository
 
