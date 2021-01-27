@@ -34,7 +34,7 @@ Here is my collecting of technical writing and documentation I have made!
 
 ### Clone and Edit a GitHub Repository
 
-<a href="https://github.com/caly-pso/technical_writing/blob/main/markdown/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/portfolio.png" alt="Writing Example" width="300"/></a>
+<a href="https://github.com/caly-pso/technical_writing/blob/main/markdown/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/github_clone.gif" alt="Writing Example" width="300"/></a>
 
 ### Pedicatric Medical Codes
 
