@@ -29,20 +29,20 @@ Here is my collecting of technical writing and documentation I have made!
 
 ### Create Your Own Portfolio Website
 
-<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/1.gif" alt="Writing Example" width="300"/></a>
+<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/1.gif" alt="Writing Example" width="400"/></a>
 <a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/3.gif" alt="Writing Example" width="300"/></a>
 
 ### Clone and Edit a GitHub Repository
 
-<a href="https://github.com/caly-pso/technical_writing/blob/main/markdown/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/github_clone.gif" alt="Writing Example" width="300"/></a>
+<a href="https://github.com/caly-pso/technical_writing/blob/main/markdown/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/github_clone.gif" alt="Writing Example" width="400"/></a>
 
 ### Pedicatric Medical Codes
 
-<a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png" alt="Writing Example" width="300"/></a>
+<a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png" alt="Writing Example" width="400"/></a>
 
 ### Covid-19 Streamlit App Quick Start Guide
 
-<a href="https://github.com/caly-pso/technical_writing/blob/main/xml/covid19_app_quickstart.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/covid_qs.png" alt="Writing Example" width="300"/></a>
+<a href="https://github.com/caly-pso/technical_writing/blob/main/xml/covid19_app_quickstart.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/covid_qs.png" alt="Writing Example" width="400"/></a>
 
 <br>
 
