@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="footer">
+  <title>Footer/Contact Me</title>
+    <body>
+        <p><image href="../img/footer.png" height="300" id="image_rms_2vd_l4b"/></p>
+        <section>
+            <title>The HTML</title>
+      <p>Change the bolded elements to fit your needs.</p>
+            <codeblock>    &lt;!--  Footer  -->
+    &lt;footer id="footer">
+        &lt;div class="container">
+        &lt;h3><b>Your Name</b>&lt;/h3>
+        &lt;div class="social-links">
+            &lt;!-- Find more icons at: https://fontawesome.com/icons?d=gallery -->
+            &lt;a href="<b>https://www.linkedin.com/</b>" class="<b>linkedin</b>">&lt;i class="fab fa-<b>linkedin</b>">&lt;/i>&lt;/a>
+            &lt;a href="<b>https://github.com/</b>" class="<b>github</b>">&lt;i class="fab fa-<b>github</b>-square">&lt;/i>&lt;/a>
+        &lt;/div>
+        &lt;/div>
+    &lt;/footer>&lt;!-- End Footer --></codeblock>
+        </section>
+        <section>
+            <title>The CSS</title>
+            <codeblock>#footer .social-links a:hover {
+    background: #743c52;
+    color: #fff;
+    text-decoration: none;
+}
+
+#footer .copyright {
+    margin: 0 0 5px 0;
+}
+
+#footer .credits {
+    font-size: 13px;
+}</codeblock>
+        </section>
+    </body>
+</topic>

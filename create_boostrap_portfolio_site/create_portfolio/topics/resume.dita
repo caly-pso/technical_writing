@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="navbar">
+    <title>Resume Section</title>
+    <body>
+        <p><image href="../img/resume.png" height="400" id="image_h5c_gsd_l4b"/></p>
+        <section><title>The HTML</title><p>Change the bolded elements to fit your needs.</p>
+            <codeblock>&lt;!--  Resume Section  -->
+        &lt;section id="resume" class="resume">
+            &lt;div class="container">
+                &lt;!-- title -->
+                &lt;div class="section-title">
+                    &lt;h2>Resume&lt;/h2>
+                &lt;p>&lt;/p>
+                &lt;/div>
+                &lt;!-- resume link -->
+                &lt;div class="section-title">
+                    &lt;a href="<b>assets/img/GenericResume.pdf</b>" target="_blank">&lt;button>Download Here&lt;/button>&lt;/a>&lt;br>&lt;br>
+                &lt;/div>
+                &lt;!-- education -->
+                &lt;div class="row">
+                    &lt;!-- first column -->
+                    &lt;div class="col-lg-6">
+                        &lt;h3 class="resume-title">Education&lt;/h3>
+                            &lt;div class="resume-item">
+                            &lt;h4><b>Bachelor of Science in Computer Science</b>&lt;/h4>
+                            &lt;p><b>2017</b> | &lt;em><b>University of Texas at San Antonio</b>&lt;/em>&lt;/p>
+                            &lt;/div>
+                        &lt;div class="resume-item">
+                            &lt;h4>Continuing Education&lt;/h4>
+                            &lt;p><b>Present</b> | &lt;em><b>Certifications: Data Analysis with Python Certification by freecodecamp</b>&lt;/em>&lt;/p>
+                        &lt;/div>
+                        &lt;h3 class="resume-title">Professional Experience&lt;/h3>
+                        &lt;!-- job1 -->
+                        &lt;div class="resume-item">
+                            &lt;h4><b>Job Title</b>&lt;/h4>
+                            &lt;p>&lt;em><b>Job Name</b> | <b>Location</b> | <b>Date-Date</b>&lt;/em>&lt;/p>
+                            &lt;ul>
+                                &lt;li><b>List your job descriptions</b>&lt;/li>
+                                &lt;li><b>Nisi delectus obcaecati laudantium eaque inventore laboriosam praesentium ratione incidunt debitis, repudiandae excepturi suscipit cumque? Quis ipsum, impedit voluptatibus at modi iste!</b>&lt;/li>
+                                &lt;li><b>Quis ipsum, impedit voluptatibus at modi iste!</b>&lt;/li>
+                            &lt;/ul>
+                        &lt;/div>
+                        &lt;!-- <b>ADD MORE JOBS HERE</b> -->
+                        &lt;/div>
+
+                        &lt;!-- second column -->
+                        &lt;div class="col-lg-6">
+                        &lt;!-- projects -->
+                        &lt;h3 class="resume-title">Projects&lt;/h3>
+                        &lt;!-- project1 -->
+                        &lt;div class="resume-item">
+                            &lt;h4><b>Project Name</b>&lt;/h4>
+                            &lt;p>&lt;em><b>Date</b>&lt;/em>&lt;/p>
+                            &lt;ul>
+                                &lt;li><b>Write a quick description. Nisi delectus obcaecati laudantium eaque inventore laboriosam praesentium ratione incidunt debitis, repudiandae excepturi suscipit cumque? Quis ipsum, impedit voluptatibus at modi iste! </b>&lt;/li>
+                            &lt;/ul>
+                        &lt;/div>
+                        &lt;!-- <b>ADD MORE PROJECTS HERE</b> -->
+                        &lt;/div>
+                    &lt;/div>
+                &lt;/div>
+            &lt;/section> &lt;!--end resume section--></codeblock>
+        </section>
+        <section>
+            <title>The CSS</title>
+            <codeblock>/* #Resume */
+.resume .resume-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #45505b;
+}
+
+.resume .resume-item {
+    padding: 0 0 20px 20px;
+    margin-top: -2px;
+    border-left: 2px solid #44344b;
+    position: relative;
+}
+
+.resume .resume-item h4 {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #44344b;
+    margin-bottom: 10px;
+}
+
+.resume .resume-item h5 {
+    font-size: 16px;
+    background: #f7f8f9;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.resume .resume-item ul {
+    padding-left: 20px;
+}
+
+.resume .resume-item ul li {
+    padding-bottom: 10px;
+}
+
+.resume .resume-item:last-child {
+    padding-bottom: 0;
+}
+
+.resume .resume-item::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50px;
+    left: -9px;
+    top: 0;
+    background: #fff;
+    border: 2px solid #44344b;
+}</codeblock>
+        </section>
+    </body>
+</topic>

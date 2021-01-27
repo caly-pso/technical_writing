@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="navbar">
+    <title>Back To Top</title>
+    <body>
+        <p><image href="../img/backtotop.png" id="image_h3q_55d_l4b"/></p>
+        <section>
+            <title>The HTML</title>
+            <codeblock>&lt;!-- Back to Top Button -->
+    &lt;a class="back-to-top" href="#">&lt;i class="fas fa-arrow-alt-circle-up">&lt;/i>&lt;/a></codeblock>
+        </section>
+        <section>
+            <title>The CSS</title>
+            <codeblock>/* Back to top button */
+    .back-to-top {
+        position: fixed;
+        width: 40px;
+        height: 40px;
+        border-radius: 50px;
+        right: 15px;
+        bottom: 15px;
+        font-size: 12px;
+        color: #fff;
+        background: #382a4f;
+        padding: .5px;
+        transition: display 0.5s ease-in-out;
+        z-index: 99999;
+    }
+
+    .back-to-top i {
+    font-size: 24px;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+    }
+
+    .back-to-top:hover {
+        color: #fff;
+        background-color: #ea5d39;
+        transition: background 0.2s ease-in-out;
+    }</codeblock>
+        </section>
+        <section>
+            <title>The JS</title>
+            <codeblock>!(function ($) {
+  "use strict";
+  // Back To Top
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 100) {
+      $(".back-to-top").fadeIn("slow");
+    } else {
+      $(".back-to-top").fadeOut("slow");
+    }
+  });
+
+  $(".back-to-top").click(function () {
+    $("html, body").animate(
+      {
+        scrollTop: 0,
+      },
+      1500,
+      "easeInOutExpo"
+    );
+    return false;
+  });
+})(jQuery);</codeblock>
+        </section>
+    </body>
+</topic>

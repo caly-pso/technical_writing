@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="background">
+    <title>Background</title>
+    <shortdesc>How you can create a portfolio website using Bootstrap, hosted for free on GitHub Pages.</shortdesc>
+    <body>
+        <section><title>Resources Used</title>
+            <p>
+                <image href="../img/bootstrap_icon.png" width="150" id="image_lct_fld_l4b"/>
+                <image href="../img/html_icon.png" width="150" id="image_yb5_rld_l4b"/>
+                <image href="../img/css_icon.png" width="150" id="image_snk_tld_l4b"/>
+                <image href="../img/js_icon.png" width="150" id="image_o4g_5ld_l4b"/>
+            </p>
+            <ul id="ul_bfw_ljd_l4b">
+                <li>Bootstrap</li>
+                <li>HTML/CSS/JS</li>
+                <li>Isotope</li>
+                <li>GitHub Pages</li>
+            </ul></section>
+        <section><title>Tools Needed</title>
+            <ul>
+                <li>Text Editor/IDE such as <xref href="https://code.visualstudio.com/download"
+                        format="html" scope="external">VS Code</xref></li>
+                <li><xref href="https://github.com/join" format="html" scope="external"
+                        >GitHub</xref> Account</li>
+            </ul></section>
+    </body>
+</topic>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="navbar">
+    <title>About Section</title>
+    <body>
+        <p><image href="../img/about.png" id="image_dx3_vrd_l4b"/></p>
+        <section><title>The HTML</title><p>Change the bolded elements to fit your needs.</p>
+            <codeblock>        &lt;!-- about me section -->
+        &lt;section id="about" class="about">
+            &lt;div class="container">
+                &lt;!-- title -->
+                &lt;div class="section-title">
+                &lt;h2>About&lt;/h2>
+                &lt;p><b>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur esse minus quaerat! Aliquid corporis in doloremque quas omnis a fuga eveniet consequuntur aspernatur, accusantium minus sed possimus totam eius nihil?</b>&lt;/p>
+                &lt;/div>
+                &lt;!-- body -->
+                &lt;div class="row">
+                    &lt;!-- pic -->
+                    &lt;br>
+                    &lt;div class="col-md-4">
+                        &lt;img src="<b>assets/img/profile.png</b>" class="img-fluid" alt="profile picture" style="max-width:400px;width:100%">
+                    &lt;/div>
+                    &lt;!-- content -->
+                    &lt;div class="col-md-8">
+                        &lt;h3><b>Software Developer</b>&lt;/h3>
+                        &lt;br>
+                        &lt;div class="row">
+                            &lt;div class="col-lg-12">
+                                &lt;!-- basics -->
+                                &lt;ul>
+                                    &lt;li>&lt;i class="icofont-rounded-right">&lt;/i> &lt;strong>City:&lt;/strong> <b>Denver</b>&lt;/li>
+                                    &lt;li>&lt;i class="icofont-rounded-right">&lt;/i> &lt;strong>Email:&lt;/strong><b> my.email@gmail.com</b>&lt;/li>
+                                    &lt;li>&lt;i class="icofont-rounded-right">&lt;/i> &lt;strong>Degree:&lt;/strong> <b>Bachelor's in Computer Science</b>&lt;/li>
+                                    &lt;li>&lt;i class="icofont-rounded-right">&lt;/i> &lt;strong>Languages &amp; Libraries:&lt;/strong> <b>Python, JavaScript, GitHub, Git, HTML/CSS</b>&lt;/li>
+                                    &lt;li>&lt;i class="icofont-rounded-right">&lt;/i> &lt;strong>Tools:&lt;/strong> <b>VS Code, Flask</b>&lt;/li>
+                                &lt;/ul>
+                            &lt;/div>
+                        &lt;/div>
+                    &lt;/div>
+                &lt;/div>
+            &lt;/div>
+        &lt;/section> &lt;!-- end about section--></codeblock>
+        </section>
+        <section>
+            <title>The CSS</title>
+            <codeblock>/* About */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}</codeblock>
+        </section>
+    </body>
+</topic>

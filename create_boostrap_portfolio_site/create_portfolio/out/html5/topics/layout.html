@@ -1,0 +1,128 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2021"><meta name="DC.rights.owner" content="(C) Copyright 2021"><meta name="DC.type" content="topic"><meta name="description" content="A simple one-page layout for the portfolio to ensure ease of use and a uniform experience."><meta name="DC.relation" scheme="URI" content="../topics/basics.html"><meta name="DC.format" content="HTML5"><meta name="DC.identifier" content="layout"><link rel="stylesheet" type="text/css" href="../commonltr.css"><title>Layout</title></head><body id="layout"><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+    <h1 class="title topictitle1" id="ariaid-title1">Layout</h1>
+    
+    <div class="body"><p class="shortdesc">A simple one-page layout for the portfolio to ensure ease of use and a uniform
+        experience.</p>
+        <section class="section"><h2 class="title sectiontitle">Include Sections Such As </h2><div class="p">
+                <ul class="ul">
+                    <li class="li">Navagation Bar</li>
+                    <li class="li">Projects Section</li>
+                    <li class="li">About Section</li>
+                    <li class="li">Resume Section</li>
+                    <li class="li">Footer/Contact Me Section</li>
+                </ul>
+            </div></section>
+        <section class="section"><h2 class="title sectiontitle">Design</h2>
+        <div class="p"><ul class="ul">
+            <li class="li">Separate each section with a title</li>
+            <li class="li">Inlcude a persisting 'back to top' button</li>
+            <li class="li">Make the navagation bar easy to access while scrolling thorugh the page.</li>
+        </ul></div></section>
+        <section class="section"><h2 class="title sectiontitle">The HTML Backbone</h2>
+            <div class="p">
+                <pre class="pre codeblock"><code>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta content="width=device-width, initial-scale=1.0" name="viewport"&gt;
+    &lt;title&gt;My Portfolio&lt;/title&gt;
+    &lt;meta content="" name="description"&gt;
+    &lt;meta content="" name="keywords"&gt;
+
+    &lt;!-- Favicons --&gt;
+    &lt;link href="assets/img/favicon.ico" rel="icon"&gt;
+
+    &lt;!-- Fonts --&gt;
+    &lt;link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet"&gt;
+    &lt;link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css"&gt;
+
+
+    &lt;!-- Linked Files --&gt;
+    &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"&gt;&lt;/script&gt;
+    &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    
+    &lt;!-- Main CSS File --&gt;
+    &lt;link href="assets/css/style.css" rel="stylesheet"&gt;
+    &lt;!-- Template Main JS File --&gt;
+    &lt;script src="assets/js/main.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+            </div>
+        </section>
+        <section class="section"><h2 class="title sectiontitle">The CSS Backbone</h2>
+            
+            <pre class="pre codeblock"><code>/* # General */
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #272829;
+    padding-top: 65px;
+}
+/* color palette: https://www.color-hex.com/color-palette/101112 */
+a {
+    color: #382a4f;
+}
+
+a:hover {
+    color: #743c52;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+}
+
+/* Sections General */
+section {
+    padding: 60px 0;
+    overflow: hidden;
+}
+
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    color: #45505b;
+}
+
+/* .section-title h2::before {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 120px;
+    height: 1px;
+    background: #ddd;
+    bottom: 1px;
+    left: calc(50% - 60px);
+} */
+
+.section-title h2::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 3px;
+    background: #382a4f;
+    bottom: 0;
+    left: calc(50% - 20px);
+}
+
+.section-title p {
+    margin-bottom: 0;
+}</code></pre>
+        </section>
+    </div>
+<nav role="navigation" class="related-links"><div class="familylinks"><div class="parentlink"><strong>Parent topic:</strong> <a class="link" href="../topics/basics.html">The Basics</a></div></div></nav></article></main></body></html>

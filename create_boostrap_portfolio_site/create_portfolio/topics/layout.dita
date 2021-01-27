@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="layout">
+    <title>Layout</title>
+    <shortdesc>A simple one-page layout for the portfolio to ensure ease of use and a uniform
+        experience.</shortdesc>
+    <body>
+        <section><title>Include Sections Such As </title><p>
+                <ul>
+                    <li>Navagation Bar</li>
+                    <li>Projects Section</li>
+                    <li>About Section</li>
+                    <li>Resume Section</li>
+                    <li>Footer/Contact Me Section</li>
+                </ul>
+            </p></section>
+        <section><title>Design</title>
+        <p><ul>
+            <li>Separate each section with a title</li>
+            <li>Inlcude a persisting 'back to top' button</li>
+            <li>Make the navagation bar easy to access while scrolling thorugh the page.</li>
+        </ul></p></section>
+        <section><title>The HTML Backbone</title>
+            <p>
+                <codeblock>&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;head>
+    &lt;meta charset="utf-8">
+    &lt;meta content="width=device-width, initial-scale=1.0" name="viewport">
+    &lt;title>My Portfolio&lt;/title>
+    &lt;meta content="" name="description">
+    &lt;meta content="" name="keywords">
+
+    &lt;!-- Favicons -->
+    &lt;link href="assets/img/favicon.ico" rel="icon">
+
+    &lt;!-- Fonts -->
+    &lt;link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    &lt;link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+
+
+    &lt;!-- Linked Files -->
+    &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">&lt;/script>
+    &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js">&lt;/script>
+    &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js">&lt;/script>
+    
+    &lt;!-- Main CSS File -->
+    &lt;link href="assets/css/style.css" rel="stylesheet">
+    &lt;!-- Template Main JS File -->
+    &lt;script src="assets/js/main.js">&lt;/script>
+&lt;/head>
+
+&lt;/body>
+&lt;/html></codeblock>
+            </p>
+        </section>
+        <section>
+            <title>The CSS Backbone</title>
+            <codeblock>/* # General */
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #272829;
+    padding-top: 65px;
+}
+/* color palette: https://www.color-hex.com/color-palette/101112 */
+a {
+    color: #382a4f;
+}
+
+a:hover {
+    color: #743c52;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+}
+
+/* Sections General */
+section {
+    padding: 60px 0;
+    overflow: hidden;
+}
+
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    color: #45505b;
+}
+
+/* .section-title h2::before {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 120px;
+    height: 1px;
+    background: #ddd;
+    bottom: 1px;
+    left: calc(50% - 60px);
+} */
+
+.section-title h2::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 3px;
+    background: #382a4f;
+    bottom: 0;
+    left: calc(50% - 20px);
+}
+
+.section-title p {
+    margin-bottom: 0;
+}</codeblock>
+        </section>
+    </body>
+</topic>

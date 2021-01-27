@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+<title>Create a Portfolio Using Bootstrap</title>
+    <topicref href="topics/basics.dita">
+        <topicref href="topics/background.dita"/>
+        <topicref href="topics/layout.dita"/>
+    </topicref>
+    <topicref href="topics/website.dita">
+        <topicref href="topics/navbar.dita"/>
+        <topicref href="topics/projects.dita"/>
+        <topicref href="topics/aboout.dita"/>
+        <topicref href="topics/resume.dita"/>
+        <topicref href="topics/footer.dita"/>
+        <topicref href="topics/backtotop.dita"/>
+    </topicref>
+    <topicref href="topics/hosting.dita">
+        <topicref href="topics/pages.dita"/>
+    </topicref>
+</map>

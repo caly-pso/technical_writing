@@ -1,0 +1,127 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2021"><meta name="DC.rights.owner" content="(C) Copyright 2021"><meta name="DC.type" content="topic"><meta name="DC.relation" scheme="URI" content="../topics/website.html"><meta name="DC.format" content="HTML5"><meta name="DC.identifier" content="navbar"><link rel="stylesheet" type="text/css" href="../commonltr.css"><title>Resume Section</title></head><body id="navbar"><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+    <h1 class="title topictitle1" id="ariaid-title1">Resume Section</h1>
+    <div class="body">
+        <p class="p"><img class="image" id="navbar__image_h5c_gsd_l4b" src="../img/resume.png" height="400"></p>
+        <section class="section"><h2 class="title sectiontitle">The HTML</h2><p class="p">Change the bolded elements to fit your needs.</p>
+            <pre class="pre codeblock"><code>&lt;!--  Resume Section  --&gt;
+        &lt;section id="resume" class="resume"&gt;
+            &lt;div class="container"&gt;
+                &lt;!-- title --&gt;
+                &lt;div class="section-title"&gt;
+                    &lt;h2&gt;Resume&lt;/h2&gt;
+                &lt;p&gt;&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;!-- resume link --&gt;
+                &lt;div class="section-title"&gt;
+                    &lt;a href="<strong class="ph b">assets/img/GenericResume.pdf</strong>" target="_blank"&gt;&lt;button&gt;Download Here&lt;/button&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;!-- education --&gt;
+                &lt;div class="row"&gt;
+                    &lt;!-- first column --&gt;
+                    &lt;div class="col-lg-6"&gt;
+                        &lt;h3 class="resume-title"&gt;Education&lt;/h3&gt;
+                            &lt;div class="resume-item"&gt;
+                            &lt;h4&gt;<strong class="ph b">Bachelor of Science in Computer Science</strong>&lt;/h4&gt;
+                            &lt;p&gt;<strong class="ph b">2017</strong> | &lt;em&gt;<strong class="ph b">University of Texas at San Antonio</strong>&lt;/em&gt;&lt;/p&gt;
+                            &lt;/div&gt;
+                        &lt;div class="resume-item"&gt;
+                            &lt;h4&gt;Continuing Education&lt;/h4&gt;
+                            &lt;p&gt;<strong class="ph b">Present</strong> | &lt;em&gt;<strong class="ph b">Certifications: Data Analysis with Python Certification by freecodecamp</strong>&lt;/em&gt;&lt;/p&gt;
+                        &lt;/div&gt;
+                        &lt;h3 class="resume-title"&gt;Professional Experience&lt;/h3&gt;
+                        &lt;!-- job1 --&gt;
+                        &lt;div class="resume-item"&gt;
+                            &lt;h4&gt;<strong class="ph b">Job Title</strong>&lt;/h4&gt;
+                            &lt;p&gt;&lt;em&gt;<strong class="ph b">Job Name</strong> | <strong class="ph b">Location</strong> | <strong class="ph b">Date-Date</strong>&lt;/em&gt;&lt;/p&gt;
+                            &lt;ul&gt;
+                                &lt;li&gt;<strong class="ph b">List your job descriptions</strong>&lt;/li&gt;
+                                &lt;li&gt;<strong class="ph b">Nisi delectus obcaecati laudantium eaque inventore laboriosam praesentium ratione incidunt debitis, repudiandae excepturi suscipit cumque? Quis ipsum, impedit voluptatibus at modi iste!</strong>&lt;/li&gt;
+                                &lt;li&gt;<strong class="ph b">Quis ipsum, impedit voluptatibus at modi iste!</strong>&lt;/li&gt;
+                            &lt;/ul&gt;
+                        &lt;/div&gt;
+                        &lt;!-- <strong class="ph b">ADD MORE JOBS HERE</strong> --&gt;
+                        &lt;/div&gt;
+
+                        &lt;!-- second column --&gt;
+                        &lt;div class="col-lg-6"&gt;
+                        &lt;!-- projects --&gt;
+                        &lt;h3 class="resume-title"&gt;Projects&lt;/h3&gt;
+                        &lt;!-- project1 --&gt;
+                        &lt;div class="resume-item"&gt;
+                            &lt;h4&gt;<strong class="ph b">Project Name</strong>&lt;/h4&gt;
+                            &lt;p&gt;&lt;em&gt;<strong class="ph b">Date</strong>&lt;/em&gt;&lt;/p&gt;
+                            &lt;ul&gt;
+                                &lt;li&gt;<strong class="ph b">Write a quick description. Nisi delectus obcaecati laudantium eaque inventore laboriosam praesentium ratione incidunt debitis, repudiandae excepturi suscipit cumque? Quis ipsum, impedit voluptatibus at modi iste! </strong>&lt;/li&gt;
+                            &lt;/ul&gt;
+                        &lt;/div&gt;
+                        &lt;!-- <strong class="ph b">ADD MORE PROJECTS HERE</strong> --&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/section&gt; &lt;!--end resume section--&gt;</code></pre>
+        </section>
+        <section class="section"><h2 class="title sectiontitle">The CSS</h2>
+            
+            <pre class="pre codeblock"><code>/* #Resume */
+.resume .resume-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #45505b;
+}
+
+.resume .resume-item {
+    padding: 0 0 20px 20px;
+    margin-top: -2px;
+    border-left: 2px solid #44344b;
+    position: relative;
+}
+
+.resume .resume-item h4 {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #44344b;
+    margin-bottom: 10px;
+}
+
+.resume .resume-item h5 {
+    font-size: 16px;
+    background: #f7f8f9;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.resume .resume-item ul {
+    padding-left: 20px;
+}
+
+.resume .resume-item ul li {
+    padding-bottom: 10px;
+}
+
+.resume .resume-item:last-child {
+    padding-bottom: 0;
+}
+
+.resume .resume-item::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50px;
+    left: -9px;
+    top: 0;
+    background: #fff;
+    border: 2px solid #44344b;
+}</code></pre>
+        </section>
+    </div>
+<nav role="navigation" class="related-links"><div class="familylinks"><div class="parentlink"><strong>Parent topic:</strong> <a class="link" href="../topics/website.html">Creating the Website</a></div></div></nav></article></main></body></html>

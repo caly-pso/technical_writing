@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="basics" path="topics/basics.html"/>
+   <appContext helpID="background" path="topics/background.html"/>
+   <appContext helpID="layout" path="topics/layout.html"/>
+   <appContext helpID="website" path="topics/website.html"/>
+   <appContext helpID="navbar" path="topics/navbar.html"/>
+   <appContext helpID="navbar" path="topics/projects.html"/>
+   <appContext helpID="navbar" path="topics/aboout.html"/>
+   <appContext helpID="navbar" path="topics/resume.html"/>
+   <appContext helpID="footer" path="topics/footer.html"/>
+   <appContext helpID="navbar" path="topics/backtotop.html"/>
+   <appContext helpID="hosting" path="topics/hosting.html"/>
+   <appContext helpID="pages" path="topics/pages.html"/>
+</map>

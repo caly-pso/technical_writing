@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="navbar">
+    <title>Isotope Filter</title>
+    <body>
+        <p><image href="../img/isotope.png" height="300" id="image_rhl_ktd_l4b"/></p>
+        <section><title>The HTML</title><p>Change the bolded elements to fit your needs.</p>
+            <codeblock>&lt;!--  Already added within the Portfolio Section  --></codeblock>
+        </section>
+        <section>
+            <title>The CSS</title>
+            <codeblock>/* Already added within the Portfolio Section */</codeblock>
+        </section>
+    </body>
+    <related-links>
+        <link href="projects.dita"/>
+    </related-links>
+</topic>

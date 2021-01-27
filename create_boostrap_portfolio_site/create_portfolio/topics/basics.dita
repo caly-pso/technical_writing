@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="basics">
+    <title>The Basics</title>
+    <body>
+        <section>
+            <title>Resources Used</title>
+            <p><image href="../img/bootstrap_icon.png" width="150" id="image_lct_fld_l4b"/></p>
+            <p><image href="../img/html_icon.png" width="150" id="image_yb5_rld_l4b"/></p>
+            <p><image href="../img/css_icon.png" width="150" id="image_snk_tld_l4b"/></p>
+            <p><image href="../img/js_icon.png" width="150" id="image_o4g_5ld_l4b"/></p>
+        </section>
+    </body>
+</topic>
