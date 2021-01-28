@@ -3,8 +3,11 @@
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
 
 
-# How to Clone and Edit This Repo
+# How to Clone and Edit the Portfolio Template Repo
 
+<p align="center">
+  <img width="500" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/preview.png">
+</p>
 
 
 ## TL;DR
