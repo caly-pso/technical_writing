@@ -69,7 +69,7 @@ OR
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <img width="300" src="https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/img/file_structure.png">
+  <img width="300" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/file_structure.png">
 </p>
 
 Now that you have the files on your local computer, you can open them in a text editor. The file structure should be what you see above. 
