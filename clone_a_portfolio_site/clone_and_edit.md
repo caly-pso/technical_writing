@@ -3,8 +3,11 @@
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
 
 
-# How to Clone and Edit This Repo
+# How to Clone and Edit the Portfolio Template Repo
 
+<p align="center">
+  <a href="https://caly-pso.github.io/portfolio_website_template/" target="_blank"><img width="500" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/preview.png"></a>
+</p>
 
 
 ## TL;DR
@@ -69,7 +72,7 @@ OR
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <img width="300" src="https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/img/file_structure.png">
+  <img width="300" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/file_structure.png">
 </p>
 
 Now that you have the files on your local computer, you can open them in a text editor. The file structure should be what you see above. 
@@ -86,7 +89,7 @@ Add your image to the About section, as well as your city, email, interests, and
 
 Put in your resume. Type out your schooling and experience directly into the HTML, and link a PDF version of your resume to the 'Download Here' button. Currently the PDF example is saved in the `assets/img` folder, where you can save your own.
 
-Add links to your GitHub, LinkedIn, Medium, Twitter, Youtube, etc. You can find the associated icons on [Font Awesome](https://fontawesome.com/icons?d=gallery), and add in the link to the `i tag class`. 
+Add links to your GitHub, LinkedIn, Medium, Twitter, YouTube, etc. You can find the associated icons on [Font Awesome](https://fontawesome.com/icons?d=gallery), and add in the link to the `i tag class`. 
 
 #### Step 3: Update the Isotope filter
 In order to sort and filter the projects, I used the plugin Isotope. You can customize these filters to be anything you want. But make sure you change both the filter options under the `ul id="portfolio-fltrs"` section, and within each portfolio item's div class.
@@ -151,7 +154,7 @@ After 5-10 minutes your website will be viewable at: https://username.github.io.
 
 # About:
 
-I created this website to improve my own skills and am happy to share it! To see my other projects check out my [GitHub](https://github.com/caly-pso). 
+I created this website to improve my own skills and am happy to share it! To see my other projects, check out my [GitHub](https://github.com/caly-pso). 
 
 <!-- To learn how to make your own website, similar to mine, [check out how it was made](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_a_bootstrap_website.md)! -->
 
