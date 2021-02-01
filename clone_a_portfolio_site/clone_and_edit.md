@@ -6,7 +6,7 @@
 # How to Clone and Edit the Portfolio Template Repo
 
 <p align="center">
-  <a href="https://caly-pso.github.io/portfolio_website_template/"><img width="500" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/preview.png"></a>
+  <a href="https://caly-pso.github.io/portfolio_website_template/" target="_blank"><img width="500" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/preview.png"></a>
 </p>
 
 
