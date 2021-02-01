@@ -125,10 +125,10 @@ OR
         <li>Create a new repository with the following selections
             <ul><li>Repo Name: <strong>username.github.io</strong> (for example I named mine: caly-pso.github.io). This is what will show up in the URL</li>
               <li>Check <strong>Initialize Repository with a README</strong></li>
-                <li>Select <strong>Create repository</strong></li>
+              <li>Select <strong>Create repository</strong></li>
             </ul>
         </li>
-        <li><strong>Clone<s/trong> the repository you just created: 
+        <li><strong>Clone</strong> the repository you just created: 
                 
 `git clone https://github.com/username/username.github.io`
                 
