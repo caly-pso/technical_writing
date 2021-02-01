@@ -110,10 +110,10 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 
 1. Make sure you have a GitHub account
 2. Create a new repository with the following selections
-    - Repo Name: username.github.io (for example I named mine: caly-pso.github.io). This is what will show up in the URL
-    - Check "Initialize Repository with a README"
-    - Select "Create repository"
-3. Now that the repo is made, in GitHub, select the dropdown "Add file" and choose "Upload files". Now drag and drop the files in your portfolio folder into the browser. Once uploaded, commit your changes.
+    - Repo Name: `username.github.io` (for example I named mine: caly-pso.github.io). This is what will show up in the URL
+    - Check `Initialize Repository with a README`
+    - Select `Create repository`
+3. Now that the repo is made, in GitHub, select the dropdown `Add file` and choose `Upload files`. Now drag and drop the files in your portfolio folder into the browser. Once uploaded, `Commit` your changes.
 
 OR
 
@@ -123,8 +123,8 @@ OR
     <ol>
         <li>Make sure you have a GitHub account</li>
         <li>Create a new repository with the following selections
-            <ul><li>Repo Name: username.github.io (for example I named mine: caly-pso.github.io). This is what will show up in the URL</li>
-                <li>Check "Initialize Repository with a README"</li>
+            <ul><li>Repo Name: <codeblock>username.github.io<codeblock> (for example I named mine: caly-pso.github.io). This is what will show up in the URL</li>
+              <li>Check <codeblock>Initialize Repository with a README</codeblock></li>
                 <li>Select "Create repository"</li>
             </ul>
         </li>
