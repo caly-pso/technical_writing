@@ -87,7 +87,7 @@ Customize the projects section with images of your own projects and place them i
 
 Add your image to the About section, as well as your city, email, interests, and skills.
 
-Put in your resume. Type out your schooling and experience directly into the HTML, and link a PDF version of your resume to the 'Download Here' button. Currently the PDF example is saved in the `assets/img` folder, where you can save your own.
+Put in your resume. Type out your schooling and experience directly into the HTML, and link a PDF version of your resume to the <strong>Download Here</strong> button. Currently the PDF example is saved in the `assets/img` folder, where you can save your own.
 
 Add links to your GitHub, LinkedIn, Medium, Twitter, YouTube, etc. You can find the associated icons on [Font Awesome](https://fontawesome.com/icons?d=gallery), and add in the link to the `i tag class`. 
 
