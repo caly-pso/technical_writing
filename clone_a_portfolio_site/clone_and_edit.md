@@ -72,7 +72,7 @@ OR
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <img width="300" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/file_structure.png">
+  <img width="300" src="/clone_a_portfolio_site/img/file_structure.png">
 </p>
 
 Now that you have the files on your local computer, you can open them in a text editor. The file structure should be what you see above. 
@@ -101,7 +101,11 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 
 ###### [(Back to top)](#table-of-contents)
 
-[GitHub Pages](https://pages.github.com/)
+<p align="center">
+  <img width="300" src="/assets/img/github.png">
+  [GitHub Pages](https://pages.github.com/)
+</p>
+
 
 #### Now that you have made the website your own, you can host it for free on GitHub. The simplest way is to:
 
