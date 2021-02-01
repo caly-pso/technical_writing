@@ -102,8 +102,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <img width="300" src="/assets/img/github.png">
-  [GitHub Pages](https://pages.github.com/)
+  <a href="https://pages.github.com/" target="_blank"><img width="300" src="/assets/img/github.png">GitHub Pages</a>
 </p>
 
 
