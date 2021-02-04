@@ -72,7 +72,7 @@ Here is my collecting of technical writing and documentation I have made!
 
 # Visit My Other Projects
 
-- [Bootstrap Portfolio](https://github.com/caly-pso/portfolio_template)
+- [Build a Bootstrap Portfolio](https://github.com/caly-pso/portfolio_website_template)
 - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
 
 <br>
