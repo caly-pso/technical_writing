@@ -45,13 +45,13 @@ Here is my collecting of technical writing and documentation I have made!
 <p align="center">
 <a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png" alt="Writing Example" width="550"/></a>
 </p>
-
-### Covid-19 Streamlit App Quick Start Guide
-
+<!--
+### Covid-19 Streamlit App Quick Start Guide -->
+<!--
 <p align="center">
 <a href="https://github.com/caly-pso/technical_writing/blob/main/xml/covid19_app_quickstart.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/covid_qs.png" alt="Writing Example" width="550"/></a>
 </p>
-
+-->
 <br>
 
 # Resources:
