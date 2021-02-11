@@ -105,7 +105,7 @@ Under `assets/sampleREADME.md` you will find a template README you can fill out,
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <a href="https://pages.github.com/"><img width="500" src="/assets/img/makearepo.png"></a>
+  <a href="https://pages.github.com/"><img width="500" src="https://github.com/caly-pso/portfolio_website_template/blob/main/assets/img/makearepo.png"></a>
 </p>
 
 
