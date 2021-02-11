@@ -1,7 +1,5 @@
 # Preview
 
-###### [(Back to top)](#table-of-contents)
-
 <!-- project preview -->
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/disease_dashboard_app/main/disease_dashboard.py)
@@ -11,8 +9,6 @@
 <br>
 
 # Installation
-
-###### [(Back to top)](#table-of-contents)
 
 Navigate to the folder you wish to use
 
