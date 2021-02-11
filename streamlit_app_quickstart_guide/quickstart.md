@@ -17,55 +17,52 @@
 Navigate to the folder you wish to use
 
 ```bash
-cd Users/me/Desktop
+$ cd Users/me/Desktop
 ```
 
 Initalize git
 
 ```bash
-git init
+$ git init
 ```
 
 Clone the repo
 
 ```bash
-git clone https://github.com/caly-pso/disease_dashboard_app.git
+$ git clone https://github.com/caly-pso/disease_dashboard_app.git
 ```
 
 Move into the project root folder
 
 ```bash
-cd disease_dashboard_app
+$ cd disease_dashboard_app
 ```
+
+# Setup the Environment
 
 Create virtual environment
 
 ```bash
-python -m venv .venv
+$ python -m venv .venv
 ```
 
 Activate the environment
 
 ```bash
-source .venv/bin/activate
+$ source .venv/bin/activate
 ```
+
+# Run the Application
 
 Install the requirements
 
 ```bash
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 Run the application locally
 
 ```bash
-streamlit run disease_dashboard.py
+$ streamlit run disease_dashboard.py
 ```
 
-<br>
-
-<!-- # Development
-
-###### [(Back to top)](#table-of-contents)
-
-To modify this application, you need to open up the disease_dashboard.py files, and the fuction and graphing python files. To
