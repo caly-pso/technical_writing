@@ -158,7 +158,7 @@ After 5-10 minutes your website will be viewable at: https://username.github.io.
 
 
 <p align="center">
-  <a href="#Checkout-Your-Site" target="_blank"><img width="500" src="/assets/img/pagesoptions.png"></a>
+  <a href="#Checkout-Your-Site" target="_blank"><img width="500" src="https://github.com/caly-pso/techniclal_writing/assets/img/pagesoptions.png"></a>
 </p>
 
 <br>
@@ -167,7 +167,7 @@ After 5-10 minutes your website will be viewable at: https://username.github.io.
 
 I created this website to improve my own skills and am happy to share it! To see my other projects, check out my GitHub: 
 <p align="center">
-  <a href="https://github.com/caly-pso" target="_blank"><img width="700" src="/assets/img/mygithub.png"></a>
+  <a href="https://github.com/caly-pso" target="_blank"><img width="700" src="https://github.com/caly-pso/techniclal_writing/assets/img/mygithub.png"></a>
 </p>
 <!-- To learn how to make your own website, similar to mine, [check out how it was made](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_a_bootstrap_website.md)! -->
 
