@@ -20,7 +20,7 @@ Here is my collecting of technical writing and documentation I have made!
 
 <br>
 
-# Preview
+# Project Preview
 
 <!-- project preview -->
 <br>
@@ -54,17 +54,20 @@ Here is my collecting of technical writing and documentation I have made!
 
 <br>
 
+# Open-Source Contributions
+
+<p align="center">
+<a href="https://gitlab.com/saltstack/open/docs/salt-user-guide"><img src="/assets/img/salt_guide_contribution.png" alt="Writing Example" width="550"/></a>
+</p>
+During the Salt User Guide Docs Jam I provided technical writing support to the open-source Salt Project converting sections of the Salt User Guide from a Google Doc format into reStructured Text (rSt) and committing a final merge using git and GitLab.
+
+
 # Resources:
 
 - oXygen XML
 - Markdown
+- rSt
 - Microsoft Word
-
-<br>
-
-# License
-
-[MIT Public License](https://github.com/caly-pso/caly-pso.github.io/blob/main/LICENSE.md)
 
 <br>
 
