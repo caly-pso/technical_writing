@@ -3,7 +3,7 @@
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
 
 
-# How to Clone and Edit the Portfolio Template Repo
+# How to Clone and Edit This Portfolio Template
 
 <p align="center">
   <a href="https://caly-pso.github.io/portfolio_website_template/" target="_blank"><img width="500" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/preview.png"></a>
@@ -25,6 +25,7 @@ How you can clone my portfolio website, edit it, and host it on GitHub Pages for
 - [Cloning the Repo](#Cloning-the-Repo)
 - [Making Changes](#Making-Changes)
 - [Use GitHub Pages to Host](#Use-GitHub-Pages-to-Host)
+- [Checkout Your Site](#Checkout-Your-Site)
 
 <br>
 
@@ -72,17 +73,17 @@ OR
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <img width="300" src="/clone_a_portfolio_site/img/file_structure.png">
+  <a href="#Making-Changes"><img width="300" src="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/img/file_structure.png"></a>
 </p>
 
 Now that you have the files on your local computer, you can open them in a text editor. The file structure should be what you see above. 
 
 The first thing you will want to do is to customize the index.html page. This includes a projects section, about section, resume section, and a footer where you can link your GitHub, Twitter, etc. 
 
-##### Step 1: Put in your name 
+#### Step 1: Put in your name 
 At the top, in the about section, and anywhere else you want to display it.
 
-##### Step 2: Update the sections 
+#### Step 2: Update the sections 
 Customize the projects section with images of your own projects and place them in the `assets/img/portfolio folder`. Update the path names of the images displayed, and link them to your GitHub to display the code.
 
 Add your image to the About section, as well as your city, email, interests, and skills.
@@ -94,6 +95,8 @@ Add links to your GitHub, LinkedIn, Medium, Twitter, YouTube, etc. You can find 
 #### Step 3: Update the Isotope filter
 In order to sort and filter the projects, I used the plugin Isotope. You can customize these filters to be anything you want. But make sure you change both the filter options under the `ul id="portfolio-fltrs"` section, and within each portfolio item's div class.
 
+#### Step 4: Create your own README
+Under `assets/sampleREADME.md` you will find a template README you can fill out, and save to the root of your repository. Any time your repo is visited, it will show up on your main page, giving more info about you and what you want to showcase.
 <br>
 
 
@@ -102,7 +105,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <a href="https://pages.github.com/" target="_blank"><img width="300" src="/assets/img/github.png"><strong>Pages</strong></a>
+  <a href="https://pages.github.com/"><img width="500" src="/assets/img/makearepo.png"></a>
 </p>
 
 
@@ -150,15 +153,22 @@ OR
         
 </details>
 
-#### Finally:
+#### Checkout Your Site:
 After 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
+
+
+<p align="center">
+  <a href="#Checkout-Your-Site" target="_blank"><img width="500" src="/assets/img/pagesoptions.png"></a>
+</p>
 
 <br>
 
 # About:
 
-I created this website to improve my own skills and am happy to share it! To see my other projects, check out my [GitHub](https://github.com/caly-pso). 
-
+I created this website to improve my own skills and am happy to share it! To see my other projects, check out my GitHub: 
+<p align="center">
+  <a href="https://github.com/caly-pso" target="_blank"><img width="700" src="/assets/img/mygithub.png"></a>
+</p>
 <!-- To learn how to make your own website, similar to mine, [check out how it was made](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_a_bootstrap_website.md)! -->
 
 ###### [(Back to top)](#table-of-contents)
