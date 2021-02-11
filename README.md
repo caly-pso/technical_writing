@@ -37,21 +37,21 @@ Here is my collecting of technical writing and documentation I have made!
 ### Clone and Edit a GitHub Repository
 
 <p align="center">
-<a href="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/github_clone.gif" alt="Writing Example" width="550"/></a>
+<a href="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/clone_and_edit.md"><img src="/assets/img/github_clone.gif" alt="Writing Example" width="550"/></a>
+</p>
+
+### Streamlit Quickstart Guide
+
+<p align="center">
+<a href="https://github.com/caly-pso/technical_writing/blob/main/streamlit_app_quickstart_guide/quickstart.md"><img src="/assets/img/streatmlit_quickstart.png" alt="Writing Example" width="550"/></a>
 </p>
 
 ### Pediatric Medical Codes
 
 <p align="center">
-<a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/pediatrics_code.png" alt="Writing Example" width="550"/></a>
+<a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="/assets/img/pediatrics_code.png" alt="Writing Example" width="550"/></a>
 </p>
-<!--
-### Covid-19 Streamlit App Quick Start Guide -->
-<!--
-<p align="center">
-<a href="https://github.com/caly-pso/technical_writing/blob/main/xml/covid19_app_quickstart.pdf"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/covid_qs.png" alt="Writing Example" width="550"/></a>
-</p>
--->
+
 <br>
 
 # Resources:
