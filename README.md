@@ -18,14 +18,11 @@ Hi there! 🙌
 
 Here is my collecting of technical writing and documentation I have made! 
 
-
+<br>
 
 # Project Preview
 
 <!-- project preview -->
-<br>
-
-
 
 ### Create Your Own Portfolio Website
 
