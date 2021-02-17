@@ -18,7 +18,7 @@ Hi there! 🙌
 
 Here is my collecting of technical writing and documentation I have made! 
 
-<br>
+
 
 # Project Preview
 
